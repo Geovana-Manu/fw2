@@ -8,7 +8,6 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
-
       <script src="https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js" crossorigin></script>
 
       <script
